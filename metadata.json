@@ -2,7 +2,13 @@
   "inspired_by": "chatgptprojects/clear-code",
   "project_name": "Clear Code",
   "description": "A session log dashboard for OpenClaw — parses real JSONL session logs from all 5 agents and visualizes them with per-agent breakdowns, cost tracking, tool call heatmaps, and per-turn session timelines",
-  "tech_stack": ["Vite", "React", "TypeScript", "Tailwind CSS", "Recharts"],
+  "tech_stack": [
+    "Vite",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Recharts"
+  ],
   "build_date": "2026-04-01",
   "build_time_hours": 1,
   "status": "complete",
@@ -19,5 +25,5 @@
     "Data extraction script (scripts/extract.cjs) for refreshing data from live logs"
   ],
   "live_url": "https://mvp.trollefsen.com/2026-04-01-clear-code/",
-  "github_url": "https://github.com/sys-fairy-eve/nightly-mvp-2026-04-01-clear-code"
+  "github_url": "https://github.com/da-troll/clear-code"
 }
